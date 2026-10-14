@@ -1,0 +1,835 @@
+[
+ {
+  "COD": "VTE287",
+  "Nombre": "Total Nacional. Porcentaje de viviendas turísticas sobre el total de viviendas censadas. Dato base. ",
+  "T3_Unidad": "Porcentaje",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 382511,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Porcentaje de viviendas turísticas sobre el total de viviendas censadas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 1.28
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 1.24
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 1.43
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 1.41
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 1.52
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 1.33
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 1.29
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 1.21
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 1.24
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 1.13
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 1.22
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 1.17
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 1.28
+   }
+  ]
+ },
+ {
+  "COD": "VTE265",
+  "Nombre": "Córdoba. Porcentaje de viviendas turísticas sobre el total de viviendas censadas. Dato base. ",
+  "T3_Unidad": "Porcentaje",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 15,
+    "T3_Variable": "Provincias",
+    "Nombre": "Córdoba",
+    "Codigo": "14"
+   },
+   {
+    "Id": 382511,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Porcentaje de viviendas turísticas sobre el total de viviendas censadas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 0.71
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 0.68
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 0.72
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 0.66
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 0.65
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 0.61
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 0.54
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 0.51
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 0.46
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 0.39
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 0.38
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 0.38
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 0.42
+   }
+  ]
+ },
+ {
+  "COD": "VTE30685",
+  "Nombre": "Coruña, A. Porcentaje de viviendas turísticas sobre el total de viviendas censadas. Dato base. ",
+  "T3_Unidad": "Porcentaje",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 4534,
+    "T3_Variable": "Municipios",
+    "Nombre": "Coruña, A",
+    "Codigo": "15030"
+   },
+   {
+    "Id": 382511,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Porcentaje de viviendas turísticas sobre el total de viviendas censadas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 0.33
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 0.32
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 0.54
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 0.59
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 0.75
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 0.62
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 0.59
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 0.5
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 0.54
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 0.41
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 0.43
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 0.35
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 0.41
+   }
+  ]
+ },
+ {
+  "COD": "VTE273",
+  "Nombre": "Murcia, Región de. Porcentaje de viviendas turísticas sobre el total de viviendas censadas. Dato base. ",
+  "T3_Unidad": "Porcentaje",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 9010,
+    "T3_Variable": "Comunidades y Ciudades Autónomas",
+    "Nombre": "Murcia, Región de",
+    "Codigo": "14"
+   },
+   {
+    "Id": 382511,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Porcentaje de viviendas turísticas sobre el total de viviendas censadas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 0.76
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 0.67
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 0.94
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 1.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 1.02
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 0.87
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 0.82
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 0.81
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 0.79
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 0.72
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 0.74
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 0.74
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 0.79
+   }
+  ]
+ },
+ {
+  "COD": "VTE223",
+  "Nombre": "Murcia. Porcentaje de viviendas turísticas sobre el total de viviendas censadas. Dato base. ",
+  "T3_Unidad": "Porcentaje",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 382511,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Porcentaje de viviendas turísticas sobre el total de viviendas censadas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 0.76
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 0.67
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 0.94
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 1.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 1.02
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 0.87
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 0.82
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 0.81
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 0.79
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 0.72
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 0.74
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 0.74
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 0.79
+   }
+  ]
+ },
+ {
+  "COD": "VTE28239",
+  "Nombre": "Murcia. Porcentaje de viviendas turísticas sobre el total de viviendas censadas. Dato base. ",
+  "T3_Unidad": "Porcentaje",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 2433,
+    "T3_Variable": "Municipios",
+    "Nombre": "Murcia",
+    "Codigo": "30030"
+   },
+   {
+    "Id": 382511,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Porcentaje de viviendas turísticas sobre el total de viviendas censadas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 0.35
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 0.32
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 0.46
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 0.49
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 0.51
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 0.45
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 0.34
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 0.4
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 0.38
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 0.36
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 0.38
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 0.38
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 0.4
+   }
+  ]
+ },
+ {
+  "COD": "VTE28226",
+  "Nombre": "Yecla. Porcentaje de viviendas turísticas sobre el total de viviendas censadas. Dato base. ",
+  "T3_Unidad": "Porcentaje",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 2341,
+    "T3_Variable": "Municipios",
+    "Nombre": "Yecla",
+    "Codigo": "30043"
+   },
+   {
+    "Id": 382511,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Porcentaje de viviendas turísticas sobre el total de viviendas censadas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 0.19
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 0.19
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 0.2
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 0.21
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 0.23
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 0.18
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 0.16
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 0.15
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 0.13
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 0.12
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 0.13
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 0.14
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 0.12
+   }
+  ]
+ }
+]

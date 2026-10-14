@@ -1,0 +1,2501 @@
+[
+ {
+  "COD": "VTE71",
+  "Nombre": "Total Nacional. Viviendas turísticas. Dato base. ",
+  "T3_Unidad": "Vivienda",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 382508,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Viviendas turísticas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 341001.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 329764.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 381837.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 376463.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 403267.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 351389.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 340424.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 305136.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 311518.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 285868.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 306974.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 294698.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 321496.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE215",
+  "Nombre": "Total Nacional. Plazas. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 382510,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 1714702.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 1624933.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 1927931.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 1896755.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 2025942.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 1751263.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 1737509.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 1545368.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 1585768.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 1455967.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 1562751.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 1495578.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 1627377.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE214",
+  "Nombre": "Total Nacional. Plazas por vivienda turística. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 382509,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas por vivienda turística",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 5.03
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 4.93
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 5.05
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 5.04
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 5.02
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 4.98
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 5.1
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 5.06
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 5.09
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 5.09
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 5.09
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 5.07
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 5.06
+   }
+  ]
+ },
+ {
+  "COD": "VTE49",
+  "Nombre": "Córdoba. Viviendas turísticas. Dato base. ",
+  "T3_Unidad": "Vivienda",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 15,
+    "T3_Variable": "Provincias",
+    "Nombre": "Córdoba",
+    "Codigo": "14"
+   },
+   {
+    "Id": 382508,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Viviendas turísticas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 2949.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 2831.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 2972.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 2748.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 2708.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 2521.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 2250.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 2006.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 1827.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 1535.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 1486.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 1487.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 1672.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE171",
+  "Nombre": "Córdoba. Plazas. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 15,
+    "T3_Variable": "Provincias",
+    "Nombre": "Córdoba",
+    "Codigo": "14"
+   },
+   {
+    "Id": 382510,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 15216.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 14171.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 15212.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 14047.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 13656.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 12638.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 11730.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 10515.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 9613.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 8260.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 7818.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 7679.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 8594.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE170",
+  "Nombre": "Córdoba. Plazas por vivienda turística. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 15,
+    "T3_Variable": "Provincias",
+    "Nombre": "Córdoba",
+    "Codigo": "14"
+   },
+   {
+    "Id": 382509,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas por vivienda turística",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 5.16
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 5.01
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 5.12
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 5.11
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 5.04
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 5.01
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 5.21
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 5.24
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 5.26
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 5.38
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 5.26
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 5.16
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 5.14
+   }
+  ]
+ },
+ {
+  "COD": "VTE6271",
+  "Nombre": "Coruña, A. Viviendas turísticas. Dato base. ",
+  "T3_Unidad": "Vivienda",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 4534,
+    "T3_Variable": "Municipios",
+    "Nombre": "Coruña, A",
+    "Codigo": "15030"
+   },
+   {
+    "Id": 382508,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Viviendas turísticas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 445.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 435.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 736.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 800.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 1023.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 847.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 800.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 683.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 731.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 551.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 583.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 474.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 556.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE20393",
+  "Nombre": "Coruña, A. Plazas. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 4534,
+    "T3_Variable": "Municipios",
+    "Nombre": "Coruña, A",
+    "Codigo": "15030"
+   },
+   {
+    "Id": 382510,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 1948.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 1930.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 3190.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 3436.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 4486.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 3522.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 3506.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 2819.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 3105.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 2307.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 2503.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 1986.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 2393.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE20392",
+  "Nombre": "Coruña, A. Plazas por vivienda turística. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 4534,
+    "T3_Variable": "Municipios",
+    "Nombre": "Coruña, A",
+    "Codigo": "15030"
+   },
+   {
+    "Id": 382509,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas por vivienda turística",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 4.38
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 4.44
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 4.33
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 4.3
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 4.39
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 4.16
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 4.38
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 4.13
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 4.25
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 4.19
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 4.29
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 4.19
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 4.3
+   }
+  ]
+ },
+ {
+  "COD": "VTE57",
+  "Nombre": "Murcia, Región de. Viviendas turísticas. Dato base. ",
+  "T3_Unidad": "Vivienda",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 9010,
+    "T3_Variable": "Comunidades y Ciudades Autónomas",
+    "Nombre": "Murcia, Región de",
+    "Codigo": "14"
+   },
+   {
+    "Id": 382508,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Viviendas turísticas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 6382.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 5621.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 7939.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 8406.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 8646.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 7309.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 6952.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 6288.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 6133.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 5554.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 5741.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 5722.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 6146.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE187",
+  "Nombre": "Murcia, Región de. Plazas. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 9010,
+    "T3_Variable": "Comunidades y Ciudades Autónomas",
+    "Nombre": "Murcia, Región de",
+    "Codigo": "14"
+   },
+   {
+    "Id": 382510,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 32966.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 28991.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 40963.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 42998.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 44183.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 37106.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 36144.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 32636.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 31927.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 29113.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 30112.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 29902.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 32079.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE186",
+  "Nombre": "Murcia, Región de. Plazas por vivienda turística. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 9010,
+    "T3_Variable": "Comunidades y Ciudades Autónomas",
+    "Nombre": "Murcia, Región de",
+    "Codigo": "14"
+   },
+   {
+    "Id": 382509,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas por vivienda turística",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 5.17
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 5.16
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 5.16
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 5.12
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 5.11
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 5.08
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 5.2
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 5.19
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 5.21
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 5.24
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 5.25
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 5.23
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 5.22
+   }
+  ]
+ },
+ {
+  "COD": "VTE7",
+  "Nombre": "Murcia. Viviendas turísticas. Dato base. ",
+  "T3_Unidad": "Vivienda",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 382508,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Viviendas turísticas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 6382.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 5621.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 7939.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 8406.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 8646.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 7309.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 6952.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 6288.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 6133.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 5554.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 5741.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 5722.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 6146.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE87",
+  "Nombre": "Murcia. Plazas. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 382510,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 32966.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 28991.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 40963.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 42998.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 44183.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 37106.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 36144.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 32636.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 31927.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 29113.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 30112.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 29902.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 32079.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE86",
+  "Nombre": "Murcia. Plazas por vivienda turística. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 382509,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas por vivienda turística",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 5.17
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 5.16
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 5.16
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 5.12
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 5.11
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 5.08
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 5.2
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 5.19
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 5.21
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 5.24
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 5.25
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 5.23
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 5.22
+   }
+  ]
+ },
+ {
+  "COD": "VTE3825",
+  "Nombre": "Murcia. Viviendas turísticas. Dato base. ",
+  "T3_Unidad": "Vivienda",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 2433,
+    "T3_Variable": "Municipios",
+    "Nombre": "Murcia",
+    "Codigo": "30030"
+   },
+   {
+    "Id": 382508,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Viviendas turísticas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 777.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 703.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 1002.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 1072.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 1115.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 984.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 742.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 830.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 796.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 747.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 797.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 786.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 840.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE15501",
+  "Nombre": "Murcia. Plazas. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 2433,
+    "T3_Variable": "Municipios",
+    "Nombre": "Murcia",
+    "Codigo": "30030"
+   },
+   {
+    "Id": 382510,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 3690.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 3319.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 4474.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 4795.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 4953.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 4194.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 3317.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 3597.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 3482.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 3226.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 3447.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 3428.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 3680.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE15500",
+  "Nombre": "Murcia. Plazas por vivienda turística. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 2433,
+    "T3_Variable": "Municipios",
+    "Nombre": "Murcia",
+    "Codigo": "30030"
+   },
+   {
+    "Id": 382509,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas por vivienda turística",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 4.75
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 4.72
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 4.47
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 4.47
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 4.44
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 4.26
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 4.47
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 4.33
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 4.37
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 4.32
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 4.32
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 4.36
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 4.38
+   }
+  ]
+ },
+ {
+  "COD": "VTE3812",
+  "Nombre": "Yecla. Viviendas turísticas. Dato base. ",
+  "T3_Unidad": "Vivienda",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 2341,
+    "T3_Variable": "Municipios",
+    "Nombre": "Yecla",
+    "Codigo": "30043"
+   },
+   {
+    "Id": 382508,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Viviendas turísticas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 37.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 37.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 38.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 40.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 44.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 35.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 30.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 23.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 20.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 19.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 20.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 21.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 18.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE15475",
+  "Nombre": "Yecla. Plazas. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 2341,
+    "T3_Variable": "Municipios",
+    "Nombre": "Yecla",
+    "Codigo": "30043"
+   },
+   {
+    "Id": 382510,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 182.0
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 190.0
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 203.0
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 197.0
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 208.0
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 158.0
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 169.0
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 143.0
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 126.0
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 98.0
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 115.0
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 105.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 101.0
+   }
+  ]
+ },
+ {
+  "COD": "VTE15474",
+  "Nombre": "Yecla. Plazas por vivienda turística. Dato base. ",
+  "T3_Unidad": "Plazas",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 2341,
+    "T3_Variable": "Municipios",
+    "Nombre": "Yecla",
+    "Codigo": "30043"
+   },
+   {
+    "Id": 382509,
+    "T3_Variable": "Concepto turístico",
+    "Nombre": "Plazas por vivienda turística",
+    "Codigo": ""
+   },
+   {
+    "Id": 72,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Dato base",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2026-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2026,
+    "Valor": 4.92
+   },
+   {
+    "Fecha": "2025-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2025,
+    "Valor": 5.14
+   },
+   {
+    "Fecha": "2025-05-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M05",
+    "Anyo": 2025,
+    "Valor": 5.34
+   },
+   {
+    "Fecha": "2024-11-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M11",
+    "Anyo": 2024,
+    "Valor": 4.93
+   },
+   {
+    "Fecha": "2024-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2024,
+    "Valor": 4.73
+   },
+   {
+    "Fecha": "2024-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2024,
+    "Valor": 4.51
+   },
+   {
+    "Fecha": "2023-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2023,
+    "Valor": 5.63
+   },
+   {
+    "Fecha": "2023-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2023,
+    "Valor": 6.22
+   },
+   {
+    "Fecha": "2022-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2022,
+    "Valor": 6.3
+   },
+   {
+    "Fecha": "2022-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2022,
+    "Valor": 5.16
+   },
+   {
+    "Fecha": "2021-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2021,
+    "Valor": 5.75
+   },
+   {
+    "Fecha": "2021-02-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M02",
+    "Anyo": 2021,
+    "Valor": 5.0
+   },
+   {
+    "Fecha": "2020-08-01T00:00:00.000+02:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "M08",
+    "Anyo": 2020,
+    "Valor": 5.61
+   }
+  ]
+ }
+]

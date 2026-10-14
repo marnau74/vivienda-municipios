@@ -1,0 +1,3026 @@
+[
+ {
+  "COD": "IPVA4962",
+  "Nombre": "Total Nacional. Total. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 391802,
+    "T3_Variable": "Tamaño de la vivienda",
+    "Nombre": "Total",
+    "Codigo": ""
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 122.92
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 118.727
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 115.684
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 112.694
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 110.942
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 109.999
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 106.247
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 103.528
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.681
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 99.741
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 100.493
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 103.193
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 104.761
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5016",
+  "Nombre": "Total Nacional. Total. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 391802,
+    "T3_Variable": "Tamaño de la vivienda",
+    "Nombre": "Total",
+    "Codigo": ""
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.5
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.6
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.7
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 1.6
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 0.9
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 3.5
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 2.6
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 1.8
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.7
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 0.3
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -0.7
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -2.6
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -1.5
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA4961",
+  "Nombre": "Total Nacional. Vivienda unifamiliar. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 283863,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda unifamiliar",
+    "Codigo": "2"
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 118.005
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 114.608
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 112.215
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 109.513
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 107.422
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 106.79
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 105.205
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 103.327
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.744
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 99.367
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 99.347
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 101.106
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 102.42
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5015",
+  "Nombre": "Total Nacional. Vivienda unifamiliar. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 283863,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda unifamiliar",
+    "Codigo": "2"
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.0
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.1
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.5
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 1.9
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 0.6
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 1.5
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 1.8
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 1.6
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.7
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 0.6
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 0.0
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -1.7
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -1.3
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA4960",
+  "Nombre": "Total Nacional. Vivienda colectiva. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 283868,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda colectiva",
+    "Codigo": "3"
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 123.533
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 119.24
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 116.115
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 113.088
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 111.382
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 110.4
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 106.378
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 103.553
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.673
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 99.786
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 100.629
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 103.434
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 105.029
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5014",
+  "Nombre": "Total Nacional. Vivienda colectiva. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16473,
+    "T3_Variable": "Total Nacional",
+    "Nombre": "Total Nacional",
+    "Codigo": "00"
+   },
+   {
+    "Id": 283868,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda colectiva",
+    "Codigo": "3"
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.6
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.7
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.7
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 1.5
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 0.9
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 3.8
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 2.7
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 1.8
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.7
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 0.2
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -0.8
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -2.7
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -1.5
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5376",
+  "Nombre": "Albacete. Total. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Albacete",
+    "Codigo": "02"
+   },
+   {
+    "Id": 391802,
+    "T3_Variable": "Tamaño de la vivienda",
+    "Nombre": "Total",
+    "Codigo": ""
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 118.601
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 115.13
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 112.628
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 110.121
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 107.678
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 106.825
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 103.92
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 102.266
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.322
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 101.003
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 102.385
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 105.269
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 108.042
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5520",
+  "Nombre": "Albacete. Total. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Albacete",
+    "Codigo": "02"
+   },
+   {
+    "Id": 391802,
+    "T3_Variable": "Tamaño de la vivienda",
+    "Nombre": "Total",
+    "Codigo": ""
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.0
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.2
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.3
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 2.3
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 0.8
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 2.8
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 1.6
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 0.9
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.3
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": -1.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -1.3
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -2.7
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -2.6
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5375",
+  "Nombre": "Albacete. Vivienda unifamiliar. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Albacete",
+    "Codigo": "02"
+   },
+   {
+    "Id": 283863,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda unifamiliar",
+    "Codigo": "2"
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 114.66
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 112.802
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 111.116
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 109.634
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 107.798
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 107.121
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 104.716
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 103.763
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.599
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 101.997
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 103.808
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 106.061
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 108.1
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5519",
+  "Nombre": "Albacete. Vivienda unifamiliar. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Albacete",
+    "Codigo": "02"
+   },
+   {
+    "Id": 283863,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda unifamiliar",
+    "Codigo": "2"
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 1.6
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 1.5
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 1.4
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 1.7
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 0.6
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 2.3
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 0.9
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 2.1
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.6
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": -2.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -1.7
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -2.1
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -1.9
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5374",
+  "Nombre": "Albacete. Vivienda colectiva. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Albacete",
+    "Codigo": "02"
+   },
+   {
+    "Id": 283868,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda colectiva",
+    "Codigo": "3"
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 119.071
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 115.411
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 112.811
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 110.188
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 107.674
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 106.803
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 103.848
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 102.126
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.296
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 100.916
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 102.261
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 105.192
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 108.017
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5518",
+  "Nombre": "Albacete. Vivienda colectiva. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 3,
+    "T3_Variable": "Provincias",
+    "Nombre": "Albacete",
+    "Codigo": "02"
+   },
+   {
+    "Id": 283868,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda colectiva",
+    "Codigo": "3"
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.2
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.3
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.4
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 2.3
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 0.8
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 2.8
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 1.7
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 0.8
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.3
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": -0.9
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -1.3
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -2.8
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -2.6
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5337",
+  "Nombre": "Coruña, A. Total. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16,
+    "T3_Variable": "Provincias",
+    "Nombre": "Coruña, A",
+    "Codigo": "15"
+   },
+   {
+    "Id": 391802,
+    "T3_Variable": "Tamaño de la vivienda",
+    "Nombre": "Total",
+    "Codigo": ""
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 118.719
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 114.443
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 111.594
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 108.809
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 106.754
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 105.478
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 102.727
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 101.56
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 100.698
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 100.449
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 101.055
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 102.89
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 103.422
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5481",
+  "Nombre": "Coruña, A. Total. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16,
+    "T3_Variable": "Provincias",
+    "Nombre": "Coruña, A",
+    "Codigo": "15"
+   },
+   {
+    "Id": 391802,
+    "T3_Variable": "Tamaño de la vivienda",
+    "Nombre": "Total",
+    "Codigo": ""
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.7
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.6
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.6
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 1.9
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 1.2
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 2.7
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 1.1
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 0.9
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 0.7
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": -0.4
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -0.6
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -1.8
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -0.5
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5336",
+  "Nombre": "Coruña, A. Vivienda unifamiliar. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16,
+    "T3_Variable": "Provincias",
+    "Nombre": "Coruña, A",
+    "Codigo": "15"
+   },
+   {
+    "Id": 283863,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda unifamiliar",
+    "Codigo": "2"
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 113.628
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 110.476
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 108.867
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 106.175
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 104.707
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 103.567
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 102.62
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 102.326
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.296
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 99.35
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 99.501
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 100.207
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 100.54
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5480",
+  "Nombre": "Coruña, A. Vivienda unifamiliar. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16,
+    "T3_Variable": "Provincias",
+    "Nombre": "Coruña, A",
+    "Codigo": "15"
+   },
+   {
+    "Id": 283863,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda unifamiliar",
+    "Codigo": "2"
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 2.9
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 1.5
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.5
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 1.4
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 1.1
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 0.9
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 0.3
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 1.0
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.3
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 0.7
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -0.2
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -0.7
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -0.3
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5335",
+  "Nombre": "Coruña, A. Vivienda colectiva. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16,
+    "T3_Variable": "Provincias",
+    "Nombre": "Coruña, A",
+    "Codigo": "15"
+   },
+   {
+    "Id": 283868,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda colectiva",
+    "Codigo": "3"
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 119.159
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 114.782
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 111.822
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 109.029
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 106.921
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 105.634
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 102.738
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 101.501
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 100.652
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 100.53
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 101.168
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 103.08
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 103.625
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5479",
+  "Nombre": "Coruña, A. Vivienda colectiva. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 16,
+    "T3_Variable": "Provincias",
+    "Nombre": "Coruña, A",
+    "Codigo": "15"
+   },
+   {
+    "Id": 283868,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda colectiva",
+    "Codigo": "3"
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.8
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.6
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.6
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 2.0
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 1.2
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 2.8
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 1.2
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 0.8
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 0.7
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": -0.5
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -0.6
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -1.9
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -0.5
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5295",
+  "Nombre": "Murcia. Total. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 391802,
+    "T3_Variable": "Tamaño de la vivienda",
+    "Nombre": "Total",
+    "Codigo": ""
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 121.613
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 117.657
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 114.904
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 111.978
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 109.418
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 108.057
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 104.953
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 102.814
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.493
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 100.279
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 101.307
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 104.461
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 106.614
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5439",
+  "Nombre": "Murcia. Total. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 391802,
+    "T3_Variable": "Tamaño de la vivienda",
+    "Nombre": "Total",
+    "Codigo": ""
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.4
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.4
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.6
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 2.3
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 1.3
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 3.0
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 2.1
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 1.3
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.5
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": -0.3
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -1.0
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -3.0
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -2.0
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5294",
+  "Nombre": "Murcia. Vivienda unifamiliar. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 283863,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda unifamiliar",
+    "Codigo": "2"
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 115.868
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 112.829
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 110.735
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 108.746
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 106.892
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 105.779
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 103.682
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 101.975
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.468
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 100.52
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 101.029
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 104.514
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 106.182
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5438",
+  "Nombre": "Murcia. Vivienda unifamiliar. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 283863,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda unifamiliar",
+    "Codigo": "2"
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 2.7
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 1.9
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 1.8
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 1.7
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 1.1
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 2.0
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 1.7
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 0.5
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.5
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": -0.5
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -0.5
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -3.3
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -1.6
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5293",
+  "Nombre": "Murcia. Vivienda colectiva. Índice. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 283868,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda colectiva",
+    "Codigo": "3"
+   },
+   {
+    "Id": 83,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Índice",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 122.994
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 118.817
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 115.905
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 112.749
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 110.014
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 108.594
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 105.251
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 103.01
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 101.498
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": 100.0
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": 100.224
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": 101.366
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": 104.45
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": 106.701
+   }
+  ]
+ },
+ {
+  "COD": "IPVA5437",
+  "Nombre": "Murcia. Vivienda colectiva. Variación anual. ",
+  "T3_Unidad": "Índice",
+  "T3_Escala": " ",
+  "MetaData": [
+   {
+    "Id": 31,
+    "T3_Variable": "Provincias",
+    "Nombre": "Murcia",
+    "Codigo": "30"
+   },
+   {
+    "Id": 283868,
+    "T3_Variable": "Tipo de vivienda",
+    "Nombre": "Vivienda colectiva",
+    "Codigo": "3"
+   },
+   {
+    "Id": 74,
+    "T3_Variable": "Tipo de dato",
+    "Nombre": "Variación anual",
+    "Codigo": ""
+   }
+  ],
+  "Data": [
+   {
+    "Fecha": "2024-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2024,
+    "Valor": 3.5
+   },
+   {
+    "Fecha": "2023-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2023,
+    "Valor": 2.5
+   },
+   {
+    "Fecha": "2022-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2022,
+    "Valor": 2.8
+   },
+   {
+    "Fecha": "2021-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2021,
+    "Valor": 2.5
+   },
+   {
+    "Fecha": "2020-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2020,
+    "Valor": 1.3
+   },
+   {
+    "Fecha": "2019-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2019,
+    "Valor": 3.2
+   },
+   {
+    "Fecha": "2018-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2018,
+    "Valor": 2.2
+   },
+   {
+    "Fecha": "2017-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2017,
+    "Valor": 1.5
+   },
+   {
+    "Fecha": "2016-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2016,
+    "Valor": 1.5
+   },
+   {
+    "Fecha": "2015-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2015,
+    "Valor": -0.2
+   },
+   {
+    "Fecha": "2014-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2014,
+    "Valor": -1.1
+   },
+   {
+    "Fecha": "2013-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2013,
+    "Valor": -3.0
+   },
+   {
+    "Fecha": "2012-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2012,
+    "Valor": -2.1
+   },
+   {
+    "Fecha": "2011-01-01T00:00:00.000+01:00",
+    "T3_TipoDato": "Definitivo",
+    "T3_Periodo": "A",
+    "Anyo": 2011,
+    "Valor": null
+   }
+  ]
+ }
+]
