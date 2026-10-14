@@ -10,6 +10,7 @@ export function SelectorDeIndicador({ actual, base }: { actual: Indicador; base:
         <li key={i}>
           <Link
             href={`${base}/${i}`}
+            prefetch={base === "/mapa" ? false : undefined}
             aria-current={i === actual ? "page" : undefined}
             className={`block rounded-md border px-3 py-1.5 ${
               i === actual ? "border-acento bg-acento-suave text-acento" : "border-borde text-suave hover:text-texto"

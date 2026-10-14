@@ -2,7 +2,7 @@
 import { describe, expect, it } from "vitest";
 import { aniosQueFaltan, periodoAnterior, subidaEntre, ultimoAnio, ultimoPeriodo, variacion } from "@/lib/calculos";
 import { cambio, entero, periodo, periodoCorto, porcentaje } from "@/lib/formato";
-import { clase, cortesPorCuantiles, orientar } from "@/lib/mapa";
+import { clase, cortesPorCuantiles, dibujarMapa, orientar } from "@/lib/mapa";
 
 const serie = [
   { anio: 2015, indice: 100, variacion_anual: 1 },
@@ -99,5 +99,42 @@ describe("mapa", () => {
     const resultado = orientar(structuredClone(mezclado) as never) as unknown as { geometry: { coordinates: number[][][][] } };
     expect(resultado.geometry.coordinates).toEqual([[horario], [horario]]);
     expect(orientar(structuredClone(bien) as never)).toEqual(bien);
+  });
+});
+
+describe("dibujo del mapa", () => {
+  const geometria = {
+    municipios: [
+      { codigo: "30030", nombre: "Murcia", d: "M0,0L1,0L1,1Z" },
+      { codigo: "30043", nombre: "Yecla", d: "M2,0L3,0L3,1Z" },
+      { codigo: "02003", nombre: "Albacete", d: "M4,0L5,0L5,1Z" },
+      { codigo: "99999", nombre: "A <b>&</b>", d: "M6,0L7,0L7,1Z" },
+    ],
+    provincias: "M0,0L9,9",
+    recuadro: { x: 0, y: 0, ancho: 1, alto: 1 },
+  };
+  const svg = dibujarMapa(geometria, {
+    titulo: "Subida",
+    descripcion: "Con <dato>",
+    valores: { "30030": 25.4, "30043": 27.3, "99999": 1 },
+    slugs: { "30030": "murcia-30030", "30043": "yecla-30043" },
+    cortes: [26],
+    formato: (v) => `${v} %`,
+  });
+
+  it("cada municipio con dato enlaza a su ficha, fuera del tabulador, con su valor de título", () => {
+    expect(svg).toContain('<a href="/territorio/murcia-30030" tabindex="-1"><path d="M0,0L1,0L1,1Z" fill="var(--escala-1)"><title>Murcia: 25.4 %</title>');
+    expect(svg).toContain('fill="var(--escala-2)"><title>Yecla: 27.3 %</title>');
+  });
+
+  it("los municipios sin dato van juntos en un solo camino rayado", () => {
+    expect(svg).toContain('<path d="M4,0L5,0L5,1Z" fill="url(#sin-dato)"/>');
+    expect(svg).not.toContain("Albacete");
+  });
+
+  it("los textos se escapan", () => {
+    expect(svg).toContain("<desc id=\"mapa-desc\">Con &lt;dato&gt;</desc>");
+    expect(svg).toContain("<title>A &lt;b&gt;&amp;&lt;/b&gt;: 1 %</title>");
+    expect(svg).not.toContain("<b>");
   });
 });

@@ -57,7 +57,7 @@ Lo que la web cuenta al lado de cada cifra, porque cambia cómo se lee:
 src/
 ├── app/                     Rutas (App Router)
 │   ├── territorio/[slug]    Ficha: las de los municipios con índice se generan al construir; el resto, al pedirlas
-│   ├── mapa/[indicador]     Mapa (estático, se renueva cada día)
+│   ├── mapa/[indicador]     Mapa y leyenda; el SVG se sirve aparte desde mapa/[indicador]/svg
 │   ├── ranking/[indicador]  Rankings
 │   ├── comparar             Comparador (estado en la URL)
 │   ├── cuenta               Entrar, municipios seguidos y comparaciones guardadas
@@ -69,7 +69,7 @@ src/
 ├── lib/
 │   ├── datos.ts             Lecturas de Supabase en caché ('use cache', etiqueta «ine», un día)
 │   ├── calculos.ts          Subidas, variaciones y huecos de las series
-│   ├── mapa.ts              TopoJSON de es-atlas → caminos SVG (proyección, recuadro de Canarias, cuantiles)
+│   ├── mapa.ts              TopoJSON de es-atlas → SVG (simplificación, proyección, Canarias, cuantiles)
 │   ├── ine/transformar.ts   Respuestas del INE (validadas con zod) → filas
 │   └── supabase/            Cliente público sin cookies (datos en caché) y cliente con sesión por petición
 └── proxy.ts                 Refresca la sesión de Supabase en cada petición
@@ -89,6 +89,11 @@ supabase/                    Migraciones, configuración local y pruebas pgTAP
 Decisiones: [Supabase y RLS](docs/decisiones/0001-supabase-y-rls.md) ·
 [mapa en SVG desde el servidor](docs/decisiones/0002-mapa-svg-en-el-servidor.md) ·
 [Cache Components y prerenderizado parcial](docs/decisiones/0003-cache-components-y-prerenderizado-parcial.md).
+
+## Rendimiento
+
+Lighthouse (móvil simulado, construcción de producción con los datos completos): 95–98 en rendimiento y 100 en
+accesibilidad, buenas prácticas y SEO en el inicio, la ficha, los dos mapas, el ranking y el comparador.
 
 ## Puesta en marcha
 

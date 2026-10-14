@@ -39,7 +39,11 @@ export default function Raiz({ children }: LayoutProps<"/">) {
               <ul className="flex flex-wrap gap-x-5 gap-y-1 text-sm">
                 {enlaces.map((e) => (
                   <li key={e.href}>
-                    <Link href={e.href} className="text-suave underline-offset-4 hover:text-texto hover:underline">
+                    <Link
+                      href={e.href}
+                      // El mapa pesa: se descarga al pulsarlo, no en cada página que enseña el menú.
+                      prefetch={e.href.startsWith("/mapa") ? false : undefined}
+                      className="text-suave underline-offset-4 hover:text-texto hover:underline">
                       {e.texto}
                     </Link>
                   </li>

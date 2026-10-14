@@ -74,7 +74,7 @@ export default async function Inicio() {
               </span>
             ))}
             .{" "}
-            <Link href="/mapa/turisticas" className="underline underline-offset-4">
+            <Link href="/mapa/turisticas" prefetch={false} className="underline underline-offset-4">
               Ver el mapa
             </Link>
           </p>

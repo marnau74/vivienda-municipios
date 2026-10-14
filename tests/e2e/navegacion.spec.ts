@@ -33,6 +33,10 @@ test("el mapa colorea los municipios con dato y enlaza a su ficha", async ({ pag
   await expect(mapa).toBeVisible();
   await expect(page.locator('a[href="/territorio/murcia-30030"]')).toHaveCount(1);
   await expect(page.getByRole("list", { name: "Leyenda" })).toContainText("sin dato");
+
+  await page.locator('a[href="/territorio/murcia-30030"] path').click();
+  await expect(page).toHaveURL(/\/territorio\/murcia-30030$/);
+  await expect(page.getByRole("heading", { level: 1, name: "Murcia" })).toBeVisible();
 });
 
 test("el ranking ordena de más a menos", async ({ page }) => {

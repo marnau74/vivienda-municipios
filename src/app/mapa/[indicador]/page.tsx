@@ -3,7 +3,6 @@ import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import { Mapa } from "@/componentes/Mapa";
 import { SelectorDeIndicador } from "@/componentes/SelectorDeIndicador";
-import { datosDelMapa } from "@/lib/datos";
 import { esIndicador, INDICADORES } from "@/lib/indicadores";
 
 export function generateStaticParams() {
@@ -27,7 +26,6 @@ async function Contenido({ parametros }: { parametros: PageProps<"/mapa/[indicad
   const { indicador } = await parametros;
   if (!esIndicador(indicador)) notFound();
   const info = INDICADORES[indicador];
-  const { valores, slugs } = await datosDelMapa(indicador);
   return (
     <>
       <div className="flex flex-wrap items-end justify-between gap-4">
@@ -38,14 +36,7 @@ async function Contenido({ parametros }: { parametros: PageProps<"/mapa/[indicad
         <SelectorDeIndicador actual={indicador} base="/mapa" />
       </div>
       <div className="mt-6">
-        <Mapa
-          titulo={info.nombre}
-          descripcion={`${info.explicacion} ${Object.keys(valores).length} municipios con dato.`}
-          valores={valores}
-          slugs={slugs}
-          formato={info.formato}
-          decimales={info.decimales}
-        />
+        <Mapa indicador={indicador} />
       </div>
       <p className="mt-4 text-sm text-suave">
         Los colores reparten los municipios con dato en seis grupos de tamaño parecido. Pulsa un municipio para ver su

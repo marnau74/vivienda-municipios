@@ -3,6 +3,7 @@ import { cacheLife } from "next/cache";
 import { geoArea, geoConicConformal, geoPath, type GeoPermissibleObjects } from "d3-geo";
 import type { Feature, GeoJsonProperties, Geometry } from "geojson";
 import { feature, mesh } from "topojson-client";
+import { presimplify, quantile, simplify } from "topojson-simplify";
 import type { GeometryCollection, Topology } from "topojson-specification";
 import atlas from "es-atlas/es/municipalities.json";
 
@@ -15,6 +16,11 @@ import atlas from "es-atlas/es/municipalities.json";
 export const ANCHO = 960;
 export const ALTO = 640;
 const RECUADRO = { x: 20, y: 470, ancho: 300, alto: 150 };
+/**
+ * Parte de los puntos de los contornos que se conservan. A este tamaño no se nota y el mapa pasa de 1,2 MB de caminos
+ * a 0,6. Se simplifica la topología, no cada municipio, para que los vecinos sigan encajando sin huecos.
+ */
+const PUNTOS_QUE_SE_CONSERVAN = 0.1;
 
 export type MunicipioDelMapa = { codigo: string; nombre: string; d: string };
 export type Geometria = { municipios: MunicipioDelMapa[]; provincias: string; recuadro: typeof RECUADRO };
@@ -24,10 +30,13 @@ type Propiedades = { name: string };
 export async function geometria(): Promise<Geometria> {
   "use cache";
   cacheLife("max");
-  const topo = atlas as unknown as Topology<{
-    municipalities: GeometryCollection<Propiedades>;
-    provinces: GeometryCollection<Propiedades>;
-  }>;
+  const original = presimplify(
+    structuredClone(atlas) as unknown as Topology<{
+      municipalities: GeometryCollection<Propiedades>;
+      provinces: GeometryCollection<Propiedades>;
+    }>,
+  );
+  const topo = simplify(original, quantile(original, PUNTOS_QUE_SE_CONSERVAN));
   const municipios = feature(topo, topo.objects.municipalities).features.map(orientar);
   const esCanarias = (codigo: string) => codigo.startsWith("35") || codigo.startsWith("38");
 
@@ -109,4 +118,58 @@ export function clase(valor: number, cortes: number[]): number {
   let i = 0;
   while (i < cortes.length && valor >= cortes[i]!) i++;
   return i;
+}
+
+export const COLORES = ["var(--escala-1)", "var(--escala-2)", "var(--escala-3)", "var(--escala-4)", "var(--escala-5)", "var(--escala-6)"];
+
+type DatosDelDibujo = {
+  titulo: string;
+  descripcion: string;
+  /** Valor por código INE del municipio. */
+  valores: Record<string, number>;
+  /** Slug de la ficha por código INE (los municipios con dato llevan a su ficha). */
+  slugs: Record<string, string>;
+  cortes: number[];
+  formato: (valor: number) => string;
+};
+
+/**
+ * El mapa como texto SVG. Se sirve aparte de la página (ver `app/mapa/[indicador]/svg`): con miles de municipios
+ * enlazados pesa megas, y dentro de la página iría dos veces (en el HTML y en los datos de React).
+ */
+export function dibujarMapa({ municipios, provincias, recuadro }: Geometria, datos: DatosDelDibujo): string {
+  const { titulo, descripcion, valores, slugs, cortes, formato } = datos;
+  const sinDato = municipios
+    .filter((m) => valores[m.codigo] === undefined)
+    .map((m) => m.d)
+    .join("");
+  const conDato = municipios
+    .filter((m) => valores[m.codigo] !== undefined)
+    .map((m) => {
+      const valor = valores[m.codigo]!;
+      const camino = `<path d="${m.d}" fill="${COLORES[clase(valor, cortes)]}"><title>${escapar(`${m.nombre}: ${formato(valor)}`)}</title></path>`;
+      // Fuera del orden del tabulador: con el teclado serían miles de paradas; el buscador y el ranking llevan a las
+      // mismas fichas.
+      return slugs[m.codigo] ? `<a href="/territorio/${escapar(slugs[m.codigo]!)}" tabindex="-1">${camino}</a>` : camino;
+    })
+    .join("");
+  return (
+    `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${ANCHO} ${ALTO}" role="group" aria-labelledby="mapa-titulo" aria-describedby="mapa-desc" class="h-auto w-full">` +
+    `<title id="mapa-titulo">${escapar(titulo)}</title><desc id="mapa-desc">${escapar(descripcion)}</desc>` +
+    `<defs>${PATRON_SIN_DATO}</defs>` +
+    `<rect x="${recuadro.x}" y="${recuadro.y}" width="${recuadro.ancho}" height="${recuadro.alto}" fill="none" stroke="var(--borde)"/>` +
+    `<g stroke="var(--linea-mapa)" stroke-width="0.3"><path d="${sinDato}" fill="url(#sin-dato)"/>${conDato}</g>` +
+    `<path d="${provincias}" fill="none" stroke="var(--texto-suave)" stroke-width="0.6" pointer-events="none"/>` +
+    `</svg>`
+  );
+}
+
+/** El rayado de «sin dato», el mismo en el mapa y en la leyenda. */
+export const PATRON_SIN_DATO =
+  '<pattern id="sin-dato" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">' +
+  '<rect width="6" height="6" fill="var(--sin-dato)"/><line x1="0" y1="0" x2="0" y2="6" stroke="var(--fondo)" stroke-width="2"/>' +
+  "</pattern>";
+
+export function escapar(texto: string): string {
+  return texto.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
