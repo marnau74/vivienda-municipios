@@ -1,0 +1,59 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  web:
+    name: Web, base de datos y extremo a extremo
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Europe/Madrid
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Lint y tipos
+        run: |
+          npm run lint
+          npm run tipos
+      - name: Pruebas unitarias
+        run: npm test
+
+      # Supabase local en Docker, igual que en desarrollo: migraciones, RLS y auth con su servidor de correo.
+      - name: Supabase local
+        run: npx supabase start
+      - name: Pruebas de la base de datos (pgTAP)
+        run: npm run test:db
+      - name: Tipos generados al día
+        run: |
+          npm run tipos:db
+          git diff --exit-code src/lib/supabase/tipos.ts
+      - name: Datos de muestra (respuestas grabadas del INE)
+        run: |
+          cp .env.ejemplo .env.local
+          npm run cargar:muestra
+
+      - run: npx playwright install --with-deps chromium
+      - name: Extremo a extremo (escritorio y móvil, con axe)
+        run: npm run test:e2e
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        if: failure()
+        with:
+          name: informe-playwright
+          path: playwright-report/
+          retention-days: 7
