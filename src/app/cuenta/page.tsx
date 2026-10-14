@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Suspense } from "react";
-import { z } from "zod";
 import { borrarComparacion, salir } from "@/app/acciones";
 import { FormularioDeEntrada } from "@/componentes/FormularioDeEntrada";
 import { territorioPorCodigo } from "@/lib/datos";
+import { rutaPropia } from "@/lib/rutas";
 import { clienteConSesion } from "@/lib/supabase/servidor";
 
 export const metadata: Metadata = { title: "Mi cuenta", robots: { index: false } };
@@ -22,7 +22,7 @@ export default function Cuenta({ searchParams }: PageProps<"/cuenta">) {
 
 async function Contenido({ parametros }: { parametros: PageProps<"/cuenta">["searchParams"] }) {
   const { volver, error } = await parametros;
-  const destino = z.string().startsWith("/").catch("/cuenta").parse(Array.isArray(volver) ? volver[0] : volver);
+  const destino = rutaPropia(Array.isArray(volver) ? volver[0] : volver);
   const supabase = await clienteConSesion();
   const { data } = await supabase.auth.getUser();
 

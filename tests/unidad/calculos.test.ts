@@ -54,6 +54,8 @@ describe("formato", () => {
     expect(cambio(23.44)).toBe("+23,4 %");
     expect(cambio(-1.25)).toBe("−1,3 %");
     expect(cambio(0)).toBe("0,0 %");
+    expect(cambio(-0.04)).toBe("0,0 %");
+    expect(cambio(0.04)).toBe("0,0 %");
     expect(cambio(null)).toBe("—");
   });
 

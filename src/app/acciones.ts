@@ -4,6 +4,7 @@ import { revalidatePath } from "next/cache";
 import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { z } from "zod";
+import { rutaPropia } from "@/lib/rutas";
 import { clienteConSesion } from "@/lib/supabase/servidor";
 
 /**
@@ -23,9 +24,9 @@ async function conUsuario() {
 
 export async function cambiarSeguimiento(formulario: FormData): Promise<void> {
   const datos = z
-    .object({ territorio: CodigoDeTerritorio, seguir: z.enum(["si", "no"]), volver: z.string().regex(/^\/(?!\/)/) })
+    .object({ territorio: CodigoDeTerritorio, seguir: z.enum(["si", "no"]), volver: z.string() })
     .safeParse(Object.fromEntries(formulario));
-  if (!datos.success) return;
+  if (!datos.success || rutaPropia(datos.data.volver, "") !== datos.data.volver) return;
   const { supabase, usuario } = await conUsuario();
   if (!usuario) redirect(`/cuenta?volver=${encodeURIComponent(datos.data.volver)}`);
   if (datos.data.seguir === "si") {
@@ -68,8 +69,9 @@ export async function borrarComparacion(formulario: FormData): Promise<void> {
 export async function entrar(_previo: Estado, formulario: FormData): Promise<Estado> {
   const correo = z.email("Escribe un correo válido").safeParse(String(formulario.get("correo") ?? "").trim());
   if (!correo.success) return { error: correo.error.issues[0]?.message };
-  const volver = z.string().regex(/^\/(?!\/)/).catch("/cuenta").parse(formulario.get("volver"));
-  const origen = (await headers()).get("origin") ?? process.env.NEXT_PUBLIC_URL_DEL_SITIO;
+  const volver = rutaPropia(formulario.get("volver"));
+  // La dirección propia, si está configurada: la cabecera Origin la pone quien hace la petición.
+  const origen = process.env.NEXT_PUBLIC_URL_DEL_SITIO ?? (await headers()).get("origin");
   const supabase = await clienteConSesion();
   const { error } = await supabase.auth.signInWithOtp({
     email: correo.data,

@@ -10,8 +10,10 @@ export function entero(valor: number | null | undefined): string {
 /** «+23,4 %», «−1,2 %» (con el signo menos tipográfico) o «—» si no hay dato. */
 export function cambio(valor: number | null | undefined): string {
   if (valor == null) return "—";
-  const texto = decimal.format(Math.abs(valor));
-  return `${valor > 0 ? "+" : valor < 0 ? "−" : ""}${texto} %`;
+  // El signo, del valor ya redondeado: un −0,04 % se enseña como «0,0 %», no como «−0,0 %».
+  const redondeado = (Math.sign(valor) * Math.round(Math.abs(valor) * 10)) / 10;
+  const texto = decimal.format(Math.abs(redondeado));
+  return `${redondeado > 0 ? "+" : redondeado < 0 ? "−" : ""}${texto} %`;
 }
 
 export function porcentaje(valor: number | null | undefined): string {

@@ -1,6 +1,6 @@
 -- La búsqueda de municipios: sin tildes, con erratas y primero lo que empieza por el texto.
 begin;
-select plan(6);
+select plan(7);
 
 -- Se parte de una base vacía aunque haya datos cargados: la transacción se deshace al final y los devuelve.
 truncate public.territorio cascade;
@@ -27,6 +27,7 @@ select is((select nombre from public.buscar_municipios('coruna') limit 1), 'A Co
           'una palabra que empieza por el texto, aunque no sea la primera, y el más parecido primero');
 select is((select count(*) from public.buscar_municipios('a'))::int, 0, 'con menos de dos letras no busca');
 select is((select count(*) from public.buscar_municipios('provincia'))::int, 0, 'solo devuelve municipios');
+select is((select count(*) from public.buscar_municipios('%%'))::int, 0, 'el % no es un comodín');
 reset role;
 
 select * from finish();

@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { z } from "zod";
+import { rutaPropia } from "@/lib/rutas";
 import { clienteConSesion } from "@/lib/supabase/servidor";
 
 /**
@@ -9,11 +9,7 @@ import { clienteConSesion } from "@/lib/supabase/servidor";
 export async function GET(peticion: Request) {
   const url = new URL(peticion.url);
   const codigo = url.searchParams.get("code");
-  const volver = z
-    .string()
-    .regex(/^\/(?!\/)/)
-    .catch("/cuenta")
-    .parse(url.searchParams.get("volver"));
+  const volver = rutaPropia(url.searchParams.get("volver"));
   if (codigo) {
     const supabase = await clienteConSesion();
     const { error } = await supabase.auth.exchangeCodeForSession(codigo);
