@@ -102,7 +102,7 @@ Hace falta Node 24 y Docker (para Supabase local).
 ```bash
 npm install
 npx supabase start          # Postgres, Auth y el buzón de pruebas (Mailpit) en Docker; aplica las migraciones
-cp .env.ejemplo .env.local  # las claves de Supabase local son siempre las mismas
+npm run entorno             # escribe .env.local con las claves de Supabase local
 npm run cargar              # descarga el INE y carga unas 125.000 filas (unos 20 s); se puede repetir
 npm run dev                 # http://localhost:3000
 ```

@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "tipos": "next typegen && tsc --noEmit",
+    "entorno": "node scripts/entorno-local.ts",
     "test": "vitest run",
     "test:db": "supabase test db",
     "test:e2e": "playwright test",

@@ -45,7 +45,7 @@ jobs:
           git diff --exit-code src/lib/supabase/tipos.ts
       - name: Datos de muestra (respuestas grabadas del INE)
         run: |
-          cp .env.ejemplo .env.local
+          npm run entorno
           npm run cargar:muestra
 
       - run: npx playwright install --with-deps chromium
