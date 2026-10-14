@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+/*
+ * Colores como variables: claro por defecto y oscuro según el sistema. Un único acento (azul) y una escala secuencial
+ * del mismo tono para el mapa, legible con cualquier tipo de daltonismo (no hay rojo-verde).
+ */
+:root {
+  --fondo: #fbfaf8;
+  --superficie: #ffffff;
+  --texto: #1d2530;
+  --texto-suave: #5a6472;
+  --borde: #e2e0dc;
+  --acento: #1f4fbf;
+  --acento-suave: #e6ecfa;
+  --sube: #9a3412;
+  --baja: #1f6f43;
+  --escala-1: #eef3fb;
+  --escala-2: #c9d9f1;
+  --escala-3: #93b3e3;
+  --escala-4: #5a88cf;
+  --escala-5: #2e5fb3;
+  --escala-6: #173a7a;
+  --sin-dato: #d9d6d0;
+  --linea-mapa: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fondo: #12161c;
+    --superficie: #181e26;
+    --texto: #e7e9ec;
+    --texto-suave: #9aa4b2;
+    --borde: #2a323d;
+    --acento: #8eb0f2;
+    --acento-suave: #1d2a44;
+    --sube: #f0a37a;
+    --baja: #7dcfa0;
+    --escala-1: #1c2533;
+    --escala-2: #22385c;
+    --escala-3: #2c5088;
+    --escala-4: #3f6fb6;
+    --escala-5: #6f98d8;
+    --escala-6: #b4cdf3;
+    --sin-dato: #3a3f46;
+    --linea-mapa: #12161c;
+  }
+}
+
+@theme inline {
+  --color-fondo: var(--fondo);
+  --color-superficie: var(--superficie);
+  --color-texto: var(--texto);
+  --color-suave: var(--texto-suave);
+  --color-borde: var(--borde);
+  --color-acento: var(--acento);
+  --color-acento-suave: var(--acento-suave);
+  --color-sube: var(--sube);
+  --color-baja: var(--baja);
+  --font-sans: var(--fuente-texto);
+  --font-serif: var(--fuente-titulos);
+}
+
+body {
+  background: var(--fondo);
+  color: var(--texto);
+}
+
+/* Cifras de la misma anchura en tablas y datos. */
+.cifras {
+  font-variant-numeric: tabular-nums;
+}
+
+:focus-visible {
+  outline: 2px solid var(--acento);
+  outline-offset: 2px;
+}
+
+/* La gráfica se dibuja a 640 de ancho y en el móvil se encoge a la mitad: el texto se agranda para que se lea. */
+@media (max-width: 40rem) {
+  .grafica text {
+    font-size: 16px;
+  }
+  .grafica text.alterna {
+    display: none;
+  }
+}
