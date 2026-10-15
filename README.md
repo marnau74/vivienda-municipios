@@ -18,6 +18,8 @@ Tailwind CSS 4 · d3-geo · zod · Vitest · pgTAP · Playwright + axe**
 
 Las cifras de las capturas son las publicadas por el INE (IPVA 2024 y viviendas turísticas de mayo de 2026).
 
+> **In English.** Web app to explore, town by town, how much rents have risen in Spain since 2015 and how many tourist rentals there are, using official INE data: a page per municipality compared with its province and Spain, a map, rankings and a comparison tool. Signed-in users (magic link) can follow towns and save comparisons. Built with Next.js 16 (App Router, Server Components), TypeScript and Supabase (Postgres, Auth and row-level security).
+
 ## Los datos
 
 API JSON del INE (`servicios.ine.es/wstempus`), sin clave:
